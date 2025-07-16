@@ -1,8 +1,9 @@
-package ru.netology;
+package ru.netology.service;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+import ru.netology.CashbackHackService;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
 public class CashbackHackServiceTest {
 
